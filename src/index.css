@@ -1,0 +1,9 @@
+#__vue3__tampermonkey__ {
+  display: flex;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+}

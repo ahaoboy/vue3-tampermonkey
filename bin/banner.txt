@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name         vue3-tampermonkey-demo
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  vue3-tampermonkey-demo
+// @author       AHao
+// @include      *
+// @grant        none
+// ==/UserScript==
+
+// 0. support vue3
